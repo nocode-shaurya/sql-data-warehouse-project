@@ -190,8 +190,8 @@ BEGIN
 		--==================================
 		SET @start_time = GETDATE();
 		PRINT '>>Truncating Data';
-		TRUNCATE TABLE silver.erp_loc_a101;
-		PRINT 'Inserting Data Into: silver.erp_loc_a101';
+		TRUNCATE TABLE silver.erp_cust_az12;
+		PRINT 'Inserting Data Into: silver.erp_cust_az12';
 		INSERT INTO silver.erp_cust_az12 (
 			cid,
 			bdate,
