@@ -27,3 +27,15 @@ Develop SQL-based analytics to deliver detailed insights into:
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
 For more details, refer to [docs/requirements.md](docs/requirements.md).
+
+____________________________________________________________________________
+### Data Architecture
+
+<img width="1544" height="799" alt="Data Architecture" src="https://github.com/user-attachments/assets/bf8f73a1-4667-4e5a-bfed-7debbcc6d311" />
+
+____________________________________________________________________________
+### Data Flow
+
+<img width="712" height="523" alt="Data Flow Diagram drawio" src="https://github.com/user-attachments/assets/89c32100-b518-4396-822f-16854cf588f8" />
+
+
