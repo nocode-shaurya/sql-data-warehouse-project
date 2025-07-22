@@ -28,10 +28,11 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 For more details, refer to [docs/requirements.md](docs/requirements.md).
 
+____________________________________________________________________________
 ### Workflow
 <img width="1162" height="829" alt="brave_i9gmQpr9Mp" src="https://github.com/user-attachments/assets/f06dbf8a-ee72-43f0-943a-91901434983b" />
 
-https://efficacious-weaver-9d1.notion.site/Data-Warehouse-2343d5467c0380afb16ffddfbf11dd60
+[Notion](https://efficacious-weaver-9d1.notion.site/Data-Warehouse-2343d5467c0380afb16ffddfbf11dd60)
 ____________________________________________________________________________
 ### Data Architecture
 
